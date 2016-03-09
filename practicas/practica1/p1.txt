@@ -1,0 +1,18 @@
+COMMAND : apache2 -v
+
+OUTPUT:
+Server version: Apache/2.4.7 (Ubuntu)
+Server built:   Jan 14 2016 17:45:23
+
+
+COMMAND : ps aux | grep apache
+
+OUTPUT:
+root      1174  0.0  2.1 276392 22180 ?        Ss   23:41   0:00 /usr/sbin/apache2 -k start
+www-data  1193  0.0  0.7 276416  7536 ?        S    23:41   0:00 /usr/sbin/apache2 -k start
+www-data  1194  0.0  0.7 276416  7536 ?        S    23:41   0:00 /usr/sbin/apache2 -k start
+www-data  1195  0.0  0.8 276456  8548 ?        S    23:41   0:00 /usr/sbin/apache2 -k start
+www-data  1196  0.0  0.8 276456  8548 ?        S    23:41   0:00 /usr/sbin/apache2 -k start
+www-data  1197  0.0  0.7 276416  7536 ?        S    23:41   0:00 /usr/sbin/apache2 -k start
+www-data  1487  0.0  0.7 276416  7536 ?        S    23:47   0:00 /usr/sbin/apache2 -k start
+root      1504  0.0  0.2  11748  2132 tty1     S+   23:50   0:00 grep --color=auto apache
