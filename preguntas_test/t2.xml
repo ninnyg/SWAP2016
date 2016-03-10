@@ -1,0 +1,8 @@
+<pregunta>
+  <enunciado>Cuál de los siguientes es un tiempo de no-disponibilidad "programado":</enunciado>
+  <opcionA>Ataque al sistema</opcionA>
+  <opcionB>Rotura de una máquina</opcionB>
+  <opcionC>Actualización del SO</opcionC>
+  <opcionD>Ninguna de las anteriores</opcionD>
+  <solucion>C</solucion>
+</pregunta>
