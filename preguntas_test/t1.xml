@@ -1,0 +1,10 @@
+<pregunta>
+  <enunciado>Un sitio web bien planificado..</enunciado>
+  <opcionA>tiene todos los servicios en una sola máquina</opcionA>
+  <opcionB>tiene una máquina servidor replicada por el desarollo y una replicada como suplente </opcionB>
+  <opcionC>tiene los servicios de Web y Bases de Datos en una máquina y los servicios de correo en otra máquina</opcionC>
+  <opcionD>utiliza bases de datos mal configuradas</opcionD>
+  <solucion>B</solucion>
+</pregunta>
+
+
