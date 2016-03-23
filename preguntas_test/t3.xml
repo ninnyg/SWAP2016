@@ -1,0 +1,8 @@
+<pregunta>
+  <enunciado>Cuál de las siguientes no es una alternativa para conectar la granja web a otras redes:</enunciado>
+  <opcionA>Configuración sin DMZ</opcionA>
+  <opcionB>Configuración de DMZ doble</opcionB>
+  <opcionC>Configuración de DMZ simple</opcionC>
+  <opcionD>Configuración de DMZ triple</opcionD>
+  <solucion>D</solucion>
+</pregunta>
