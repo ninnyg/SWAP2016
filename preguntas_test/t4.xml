@@ -1,0 +1,8 @@
+<pregunta>
+  <enunciado>Cuál es la desvantaja del uso del DNS para realizar el Balanceo de Carga Global</enunciado>
+  <opcionA>Los DNS no pueden saber si uno de los centros está caído ni reencaminar el tràafica al centro más cercano.</opcionA>
+  <opcionB>Los DNS necesitan de dos accesos y se crea un cuello de botella en la IP</opcionB>
+  <opcionC>Es muy complicado de configurar</opcionC>
+  <opcionD>Si la aplicación web usa BD, éstas deben estar sincronizadas entre los diversos sitios y este es muy complejo.</opcionD>
+  <solucion>A</solucion>
+</pregunta>
