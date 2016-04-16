@@ -38,9 +38,13 @@
 **¿Cómo analizar el nivel de carga de cada uno de los subsistemas en el servidor? Buscar herramientas y aprender a usarlas.**
 
 •*PageSpeed Insights by Google* - PageSpeed Insights es una herramienta de Google para analizar y evaluar la velocidad de carga de una páginas web y, lo más importante, además proporcionar una serie de utilísimas sugerencias y herramientas asociadas para mejorar esta velocidad de carga.
+
 •*LoadImpact* - permite medir la carga de usuarios simultáneos que puede soportar tu alojamiento web.
+
 •*LoadComplete* - LoadComplete is a load testing tool for creating and running automated load tests for web servers and services. It will help you check your web server’s performance under a massive load, determine its robustness and estimate its scalability.  Load testing consists in simulating a massive load (requests) on a web server. LoadComplete automates creating load tests byrecording actions you perform over web pages and simulating these actions with dozens and hundreds of virtual users working simultaneously. Each virtual user simulates a recorded scenario, and the entire load test simulates a real-life massive load on the server. LoadComplete produces detailed test results for generated traffic. You can also monitor various server metrics (like CPU usage) during the test run.
+
 •*TestingWhiz* – TestingWhiz’s automated database testing solution offers intuitive ways to test and validate end-to-end databases overcoming the impediments of traditional database testing.
+
 •*Ganglia*  - Ganglia is a scalable distributed monitoring system for high-performance computing systems such as clusters and Grids.
 
 #T2.4
